@@ -1,0 +1,7 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyd
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
